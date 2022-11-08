@@ -1,4 +1,4 @@
-# BQSETHI
+# Band and Quality Selection for Efficient Transmission of Hyperspectral Images
 
 This is the code for "Band and quality selection for efficient transmission of hyperspectral images" published in Proceedings of the 27th ACM International Conference on Multimedia in 2019.
 
